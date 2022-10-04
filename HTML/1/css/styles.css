@@ -1,0 +1,43 @@
+/* global styles */
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    color: blue;
+    padding: 10px;
+    font-size: 22px;
+
+}
+
+body {
+    color: darkgray;
+}
+
+table {
+    color: brown;
+}
+
+td {
+    color: green;
+}
+
+/* <!-- ***********************  ABOUT / PROFILE  *********************** --> */
+.about {
+    background: #D7B377;
+}
+
+/* <!-- ********************  PROJECTS / PORTFOLIO  ********************* --> */
+
+
+/* <!-- ***********************  WORK EXPERIENCE  *********************** --> */
+
+
+/* <!-- ******************  EDUCATION & CERTIFICATIONS ****************** --> */
+
+
+/* <!-- *****************  CONTACT INFO / SOCIAL MEDIA  ***************** --> */

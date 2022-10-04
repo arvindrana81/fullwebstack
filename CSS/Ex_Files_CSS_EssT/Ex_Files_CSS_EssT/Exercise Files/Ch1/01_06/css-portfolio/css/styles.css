@@ -1,0 +1,28 @@
+img {
+    width: 300px;
+}
+
+* {
+    color: red;
+}
+
+h1 {
+    color: black;
+}
+
+/* Class and ID selector - define class or id in reference in html*/
+.header1 {
+    color: yellow;
+}
+
+#header1 {
+    color: orange;
+}
+
+a {
+    color: black;
+}
+
+section a {
+    color: blue;
+}
