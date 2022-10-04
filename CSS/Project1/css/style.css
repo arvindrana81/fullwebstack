@@ -1,12 +1,36 @@
 img {
-    width: 300px;
+    width: 100px;
+    float: left;
+    margin: 10px;
+}
+
+h1 {
+    font-family: sans-serif
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.clear{
+    clear: both;
 }
 
 .zeromargin {
     margin-top: 0%;
     margin-bottom: 0%;
+    background-color: blueviolet;
+    /* display:inline; */
+    font-size: larger;
 }
 
 .leftmargin {
-    margin-left: 05%;
+    margin-left: 3%;
+}
+
+.content-wrap {
+    width: 1200px;
+    margin: auto;
+    background-color: aquamarine;
 }
