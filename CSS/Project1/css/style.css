@@ -2,16 +2,11 @@ img {
     width: 300px;
 }
 
-h1 {
+.zeromargin {
     margin-top: 0%;
     margin-bottom: 0%;
 }
 
-h2 {
-    margin-top: 0%;
-    margin-bottom: 0%;
-}
-
-.margin {
+.leftmargin {
     margin-left: 05%;
 }
