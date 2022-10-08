@@ -1,0 +1,16 @@
+Specificity: lower the higher
+	Universal *
+	type p
+	class .
+	id #
+!important
+
+Box Model:
+	Width
+	Height
+	Padding
+	Margin
+	Border
+
+
+
